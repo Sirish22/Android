@@ -1,0 +1,3 @@
+include ':vehiclewear'
+include ':app'
+rootProject.name = "VehicleRentalApplication"
